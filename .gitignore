@@ -7,3 +7,5 @@ target
 go.work.sum
 e2e/http_trailer/server.crt
 e2e/http_trailer/server.key
+wasmplugin/rules/crs/
+edit-rules/backup_original_confs
